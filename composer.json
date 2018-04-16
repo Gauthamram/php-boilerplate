@@ -1,0 +1,18 @@
+{
+    "name": "ram/php-boilerplate",
+    "description": "Php boilerplate mvc to get started with small projects",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Ram",
+            "email": "gthm.ram@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    }
+}
